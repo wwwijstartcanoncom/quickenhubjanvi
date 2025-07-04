@@ -7,16 +7,13 @@ If you've lost your Quicken CD or need to reinstall it, there's no need to worry
 If you bought Quicken in a store and registered it, you can still download it online. For those who need a physical CD, contact Quicken Support to explore replacement options.
  
 .. raw:: html
- 
-    <div style="text-align: center; margin: 30px 0;">
- 
-.. image:: Button.png
-   :alt: Download Quicken
-   :target: https://quickenhelphub.pages.dev/
- 
-.. raw:: html
- 
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://quickenhelphub.pages.dev/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Download Quicken Now
+        </a>
     </div>
+
  
 Do You Really Need the CD?
 ============================
