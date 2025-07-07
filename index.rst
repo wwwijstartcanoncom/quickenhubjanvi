@@ -9,7 +9,7 @@ If you bought Quicken in a store and registered it, you can still download it on
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickenhelphub.pages.dev/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?9y7R3oNVrzB7eIjYw365jic83iW5Zki7BrlAh6LAdHyb6lYGmOM1XWE3ue" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken Now
         </a>
     </div>
